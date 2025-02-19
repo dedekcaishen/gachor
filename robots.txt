@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dedekcaishen.github.io/gachor/sitemap.xml
